@@ -1,0 +1,7 @@
+{
+  "companies":{
+    "company1":{"company_code": "A001","company_name": "A会社","address": "A地区","mail": "A00001@example.com"},
+    "company2":{"company_code": "B001","company_name": "B会社","address": "B地区","mail": "B00001@example.com"},    
+    "company3":{"company_code": "C001","company_name": "C会社","address": "C地区","mail": "C00001@example.com"}
+  }
+}
