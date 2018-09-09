@@ -1,7 +1,11 @@
 # React-Redux-FireBase-Demo
 
 以下のファイルにfirebaseの各種設定を記述
-```sh:/src/firebase/config.js
+
+```
+
+/src/firebase/config.js
+
 // firebase設定
 export const firebaseConfig = {
   apiKey: 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
